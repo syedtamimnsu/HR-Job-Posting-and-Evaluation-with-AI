@@ -285,7 +285,7 @@ The meeting prompt currently asks for a **30-minute slot on the next day between
 The imported workflow timezone is:
 
 ```text
-Africa/Nairobi
+Bangladesh/Dhaka
 ```
 
 Change it in **Workflow Settings** to your desired timezone before using calendar automation.
